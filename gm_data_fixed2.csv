@@ -1,0 +1,202 @@
+﻿country,wb_code,legal,punishment,legal_year,illegal_year,physical_punishment,prison_punishment,capital_punishment,protections,gay_marriage,year_passed_gm,gm_method,civil_unions,year_passed_cu,cu_method,order_made,merge_key
+Afghanistan,AFG,0,1,-99,-99,1,1,1,0,0,-99,no,0,-99,no,2,AFG_-99
+Albania,ALB,1,0,1995,-99,0,0,0,1,0,-99,no,0,-99,no,4,ALB_-99
+Algeria,DZA,0,1,-99,1966,1,1,1,0,0,-99,no,0,-99,no,5,DZA_-99
+Andorra,AND,1,0,1990,-99,0,0,0,1,0,-99,no,1,2005,parliament,6,AND_-99
+Angola,AGO,1,0,2019,-99,0,0,0,2,0,-99,no,0,-99,no,3,AGO_-99
+Argentina,ARG,1,0,1887,-99,0,0,0,1,1,2010,congress and president,1,2015,congress and president,8,ARG_2010
+Armenia,ARM,1,0,2003,-99,0,0,0,0,0,-99,no,0,-99,no,9,ARM_-99
+Aruba (Netherlands),ABW,1,0,-99,-99,0,0,0,1,0,-99,no,0,-99,no,1,ABW_-99
+Australia,AUS,1,0,1997,-99,0,0,0,1,1,2017,parliament,1,2004,parliament,10,AUS_2017
+Austria,AUT,1,0,1971,-99,0,0,0,1,1,2019,court,1,2009,parliament,11,AUT_2019
+Azerbaijan,AZE,1,0,2003,-99,0,0,0,0,0,-99,no,0,-99,no,12,AZE_-99
+Bahamas,BHS,1,0,1991,-99,0,0,0,0,0,-99,no,0,-99,no,20,BHS_-99
+Bahrain,BHR,1,0,1976,-99,0,0,0,0,0,-99,no,0,-99,no,19,BHR_-99
+Bangladesh,BGD,0,1,-99,-99,1,1,1,0,0,-99,no,0,-99,no,17,BGD_-99
+Barbados,BRB,0,1,-99,-99,0,1,0,0,0,-99,no,0,-99,no,26,BRB_-99
+Belarus,BLR,1,0,1994,-99,0,0,0,0,0,-99,no,0,-99,no,22,BLR_-99
+Belgium,BEL,1,0,1795,-99,0,0,0,1,1,2003,parliament,1,1999,"royal order, parliament",14,BEL_2003
+Belize,BLZ,1,0,2016,-99,0,0,0,1,0,-99,no,0,-99,no,23,BLZ_-99
+Benin,BEN,1,0,1877,-99,0,0,0,0,0,-99,no,0,-99,no,15,BEN_-99
+Bhutan,BTN,0,1,-99,-99,0,1,0,0,0,-99,no,0,-99,no,28,BTN_-99
+Bolivia,BOL,1,0,1832,-99,0,0,0,0,0,-99,no,1,2020,court,24,BOL_-99
+Bosnia and Herzegovnia,BIH,1,0,1996,-99,0,0,0,1,0,-99,no,0,-99,no,21,BIH_-99
+Botswana,BWA,1,0,2019,-99,0,0,0,2,0,-99,no,0,-99,no,29,BWA_-99
+Brazil,BRA,1,0,1831,-99,0,0,0,1,1,2013,court,1,2004,court,25,BRA_2013
+Brunei,BRN,0,1,-99,-99,1,1,1,0,0,-99,no,0,-99,no,27,BRN_-99
+Bulgaria,BGR,1,0,1968,-99,0,0,0,1,0,-99,no,0,-99,no,18,BGR_-99
+Burindi,BDI,0,1,-99,2009,0,1,0,0,0,-99,no,0,-99,no,13,BDI_-99
+Burkina Faco,BFA,1,0,-99,-99,0,0,0,0,0,-99,no,0,-99,no,16,BFA_-99
+Cambodia,KHM,1,0,-99,-99,0,0,0,0,0,-99,no,0,-99,no,93,KHM_-99
+Cameroon,CMR,0,1,-99,1972,1,1,1,0,0,-99,no,0,-99,no,36,CMR_-99
+Canada,CAN,1,0,1969,-99,0,0,0,1,1,2005,parliament,1,misc,misc,31,CAN_2005
+Cape Verde,CPV,1,0,-99,-99,0,0,0,2,0,-99,no,0,-99,no,41,CPV_-99
+Cayman Islands (UK),CYM,1,0,2001,-99,0,0,0,1,0,-99,no,0,-99,no,44,CYM_-99
+Central African Republic,CAF,0,0,-99,2016,0,0,0,0,0,-99,no,0,-99,no,30,CAF_-99
+Chad,TCD,0,1,-99,2017,0,1,0,0,0,-99,no,0,-99,no,187,TCD_-99
+Chile,CHL,1,0,1999,-99,0,0,0,1,0,-99,no,1,2015,congress and president,33,CHL_-99
+China,CHN,1,0,1997,-99,0,0,0,2,0,-99,no,0,-99,no,34,CHN_-99
+Colombia,COL,1,0,1981,-99,0,0,0,1,1,2016,court,1,2007,court,38,COL_2016
+Comoros,COM,0,1,-99,-99,1,1,0,0,0,-99,no,0,-99,no,39,COM_-99
+Costa Rica,CRI,1,0,1971,-99,0,0,0,1,1,2020,court,1,2013,parliament,42,CRI_2020
+Croatia,HRV,1,0,1977,-99,0,0,0,1,0,-99,no,1,2003,parliament,76,HRV_-99
+Cuba,CUB,1,0,1979,-99,0,0,0,1,0,-99,no,0,-99,no,43,CUB_-99
+Cyprus,CYP,1,0,1998,-99,0,0,0,1,0,-99,no,1,2015,parliament,45,CYP_-99
+Czech Republic,CZE,1,0,1962,-99,0,0,0,1,0,-99,no,1,2006,parliament,46,CZE_-99
+Democratic Republic of the Congo,ZAR,1,0,-99,-99,0,0,0,0,0,-99,no,0,-99,no,212,ZAR_-99
+Denmark,DNK,1,0,1933,-99,0,0,0,1,1,2012,parliament,1,1989,parliament,50,DNK_2012
+Djibouti,DJI,1,0,-99,-99,0,0,0,0,0,-99,no,0,-99,no,48,DJI_-99
+Dominica,DMA,0,1,-99,-99,0,1,0,0,0,-99,no,0,-99,no,49,DMA_-99
+East Timor,TMP,1,0,-99,-99,0,0,0,0,0,-99,no,0,-99,no,192,TMP_-99
+Ecuador,ECU,1,0,1981,-99,0,0,0,1,1,2019,court,1,2008,constitutional convention,51,ECU_2019
+Egypt,EGY,0,1,-99,"2000, de facto",0,1,0,0,0,-99,no,0,-99,no,52,EGY_-99
+El Salvador,SLV,1,0,1822,-99,0,0,0,1,0,-99,no,0,-99,no,177,SLV_-99
+Equitorial Guinea,GNQ,1,0,-99,-99,0,0,0,0,0,-99,no,0,-99,no,68,GNQ_-99
+Eritrea,ERI,0,1,-99,-99,1,1,1,0,0,-99,no,0,-99,no,53,ERI_-99
+Estonia,EST,1,0,1992,-99,0,0,0,1,0,-99,no,1,2016,court,55,EST_-99
+Eswatini,SWZ,0,0,-99,1880,0,0,0,0,0,-99,no,0,-99,no,131,SWZ_-99
+Ethiopia,ETH,0,1,-99,-99,1,1,1,0,0,-99,no,0,-99,no,56,ETH_-99
+Fiji,FJI,1,0,2010,-99,0,0,0,1,0,-99,no,0,-99,no,58,FJI_-99
+Finland,FIN,1,0,1971,-99,0,0,0,1,1,2015,parliament,1,2002,parliament,57,FIN_2015
+France,FRA,1,0,1791,-99,0,0,0,1,1,2013,parliament,1,1999,parliament,59,FRA_2013
+Gabon,GAB,0,1,-99,2019,0,1,0,0,0,-99,no,0,-99,no,61,GAB_-99
+Gambia,GMB,0,1,-99,1888,0,1,0,0,0,-99,no,0,-99,no,66,GMB_-99
+Ghana,GHA,0,1,-99,-99,1,1,0,0,0,-99,no,0,-99,no,301,GHA_-99
+Georgia,GEO,1,0,2000,-99,0,0,0,1,0,-99,no,0,-99,no,64,GEO_-99
+Germany,DEU,1,0,1968,-99,0,0,0,1,1,2017,parliament,1,2001,parliament,47,DEU_2017
+Greece,GRC,1,0,1951,-99,0,0,0,1,0,-99,no,1,2015,parliament,69,GRC_-99
+Greenland,GRL,1,0,1933,-99,0,0,0,1,1,2015,foreign parliament,1,1996,parliament,71,GRL_2015
+Grenada,GRD,0,0,-99,-99,0,0,0,bibe,0,-99,no,0,-99,no,70,GRD_-99
+Guatamala,GTM,1,0,1871,-99,0,0,0,1,0,-99,no,0,-99,no,72,GTM_-99
+Guinea,GIN,0,1,-99,1860,0,1,0,0,0,-99,no,0,-99,no,65,GIN_-99
+Guinea Bissau,GNB,1,0,-99,1993,0,0,0,0,0,-99,no,0,-99,no,67,GNB_-99
+Guyana,GUY,0,1,-99,-99,0,1,0,0,0,-99,no,0,-99,no,73,GUY_-99
+Haiti,HTI,1,0,1791,-99,0,0,0,0,0,-99,no,0,-99,no,77,HTI_-99
+Honduras,HND,1,0,1899,-99,0,0,0,1,0,-99,no,0,-99,no,75,HND_-99
+Hong Kong,HKG,1,0,1991,-99,0,0,0,2,0,-99,no,0,-99,no,74,HKG_-99
+Hungary,HUN,1,0,1962,-99,0,0,0,1,0,-99,no,1,2007,parliament,78,HUN_-99
+Iceland,ISL,1,0,1940,-99,0,0,0,1,1,2010,parliament,1,1996,parliament,84,ISL_2010
+India,IND,1,0,2018,-99,0,0,0,2,0,-99,no,0,-99,no,80,IND_-99
+Indonesia,IDN,partial,0,-99,-99,0,0,0,0,0,-99,no,0,-99,no,79,IDN_-99
+Iran,IRN,0,1,-99,-99,1,1,1,0,0,-99,no,0,-99,no,83,IRN_-99
+Iraq,IQR,1,0,2003,-99,0,0,0,0,0,-99,no,0,-99,no,81,IQR_-99
+Ireland,IRL,1,0,1993,-99,0,0,0,1,1,2015,referendum,1,2010,parliament,82,IRL_2015
+Isle of Man,IMN,1,0,1992,-99,0,0,0,1,0,-99,no,0,-99,no,134,IMN_-99
+Israel,ISR,1,0,1963,-99,0,0,0,1,0,-99,no,0,-99,no,85,ISR_-99
+Italy,ITA,1,0,1890,-99,0,0,0,1,0,-99,no,1,2016,congress and president,86,ITA_-99
+Ivory Coast,CIV,1,0,-99,-99,0,0,0,0,0,-99,no,0,-99,no,35,CIV_-99
+Jamaica,JAM,0,1,-99,-99,0,1,0,0,0,-99,no,0,-99,no,87,JAM_-99
+Japan,JPN,1,0,1880,-99,0,0,0,0,0,-99,no,0,-99,no,89,JPN_-99
+Jordan,JOR,1,0,1951,-99,0,0,0,0,0,-99,no,0,-99,no,88,JOR_-99
+Kazakhstan,KAZ,1,0,1998,-99,0,0,0,1,0,-99,no,0,-99,no,90,KAZ_-99
+Kenya,KEN,0,1,-99,2010,0,1,0,0,0,-99,no,0,-99,no,91,KEN_-99
+Kiribati,KIR,0,1,-99,-99,0,1,0,0,0,-99,no,0,-99,no,94,KIR_-99
+Kosovo,XKX,1,0,1994,-99,0,0,0,1,0,-99,no,0,-99,no,135,XKX_-99
+Kuwait,KWT,0,1,-99,-99,0,1,0,0,0,-99,no,0,-99,no,98,KWT_-99
+Kyrgyzstan,KGZ,1,0,1998,-99,0,0,0,0,0,-99,no,0,-99,no,92,KGZ_-99
+Laos,LAO,1,0,-99,-99,0,0,0,0,0,-99,no,0,-99,no,99,LAO_-99
+Latvia,LVA,1,0,1992,-99,0,0,0,2,0,-99,no,0,-99,no,100,LVA_-99
+Lebanon,LBN,0,0,-99,-99,0,0,0,0,0,-99,no,0,-99,no,101,LBN_-99
+Lesotho,LSO,1,0,2012,-99,0,0,0,0,0,-99,no,0,-99,no,106,LSO_-99
+Liberia,LBR,0,1,-99,1976,0,1,0,0,0,-99,no,0,-99,no,103,LBR_-99
+Libya,LBY,0,1,-99,-99,1,1,1,0,0,-99,no,0,-99,no,102,LBY_-99
+Liechtenstein,LIE,1,0,1989,-99,0,0,0,1,0,99,no,1,2011,parliament,104,LIE_99
+Lithuania,LTU,1,0,1993,-99,0,0,0,1,0,-99,no,0,-99,no,107,LTU_-99
+Luxembourg,LUX,1,0,1795,-99,0,0,0,1,1,2014,lower house,1,2004,parliament,108,LUX_2014
+Macau,MAC,1,0,1996,-99,0,0,0,2,0,-99,no,0,-99,no,109,MAC_-99
+Madagascar,MDG,1,0,-99,-99,0,0,0,0,0,-99,no,0,-99,no,113,MDG_-99
+Malawi,MWI,0,1,-99,1891,1,1,1,1,0,-99,no,0,-99,no,126,MWI_-99
+Malaysia,MYS,0,1,-99,-99,1,1,0,0,0,-99,no,0,-99,no,127,MYS_-99
+Maldives,MDV,0,1,-99,-99,0,1,0,0,0,-99,no,0,-99,no,114,MDV_-99
+Mali,MLI,1,0,-99,-99,0,0,0,0,0,-99,no,0,-99,no,118,MLI_-99
+Malta,MLT,1,0,1973,-99,0,0,0,1,1,2017,parliament,1,2014,parliament,119,MLT_2017
+Maritania,MRT,0,1,-99,-99,1,1,1,0,0,-99,no,0,-99,no,124,MRT_-99
+Marshall Islands,MHL,1,0,2005,-99,0,0,0,0,0,-99,no,0,-99,no,116,MHL_-99
+Mauritius,MUS,0,1,-99,-99,0,1,0,0,0,-99,no,0,-99,no,125,MUS_-99
+Mexico,MEX,1,0,1871,-99,0,0,0,1,partlial,misc,misc,partial,misc,misc,115,MEX_misc
+Micronesia,FSM,1,0,-99,-99,0,0,0,1,0,-99,no,0,-99,no,60,FSM_-99
+Moldova,MDA,1,0,1995,-99,0,0,0,2,0,-99,no,0,-99,no,112,MDA_-99
+Monaco,MCO,1,0,1793,-99,0,0,0,1,0,-99,no,1,2019,parliament,111,MCO_-99
+Mongolia,MNG,1,0,1961,-99,0,0,0,2,0,-99,no,0,-99,no,121,MNG_-99
+Montenegro,MNT,1,0,1997,-99,0,0,0,1,0,-99,no,1,2020,parliament,136,MNT_-99
+Morocco,MAR,0,1,-99,1944,0,1,0,0,0,-99,no,0,-99,no,110,MAR_-99
+Mozambique,MOZ,1,0,2015,-99,0,0,0,0,0,-99,no,0,-99,no,123,MOZ_-99
+Myanmar,MMR,0,1,-99,-99,0,1,0,0,0,-99,no,0,-99,no,120,MMR_-99
+Namibia,NAM,0,0,-99,1920,0,0,0,0,0,-99,no,0,-99,no,146,NAM_-99
+Nauru,NRU,1,0,2016,-99,0,0,0,0,0,-99,no,0,-99,no,153,NRU_-99
+Nepal,NPL,1,0,2007,-99,0,0,0,1,0,-99,no,0,-99,no,152,NPL_-99
+Netherlands,NLD,1,0,1811,-99,0,0,0,1,1,2000,parliament,1,1997,parliament,150,NLD_2000
+New Zealand,NZL,1,0,1986,-99,0,0,0,1,1,2013,parliament,1,2005,parliament,154,NZL_2013
+Nicaragua,NIC,1,0,2008,-99,0,0,0,1,0,-99,no,0,-99,no,149,NIC_-99
+Niger,NER,0,0,-99,-99,0,0,0,0,0,-99,no,0,-99,no,147,NER_-99
+Nigeria,NGA,0,1,-99,1901,1,1,1,0,0,-99,no,0,-99,no,148,NGA_-99
+North Korea,PRK,1,0,-99,-99,0,0,0,0,0,-99,no,0,-99,no,163,PRK_-99
+North Macedonia,MKD,1,0,1996,-99,0,0,0,1,0,-99,no,0,-99,no,117,MKD_-99
+Northern Mariana Islands,MNP,1,0,1983,-99,0,0,0,0,0,-99,no,0,-99,no,122,MNP_-99
+Norway,NOR,1,0,1972,-99,0,0,0,1,1,2008,parliament,1,1993,parliament,151,NOR_2008
+Oman,OMN,0,1,-99,-99,0,1,0,0,0,-99,no,0,-99,no,155,OMN_-99
+Pakistan,PAK,0,1,-99,-99,0,1,0,0,0,-99,no,0,-99,no,156,PAK_-99
+Palau,PLW,1,0,2014,-99,0,0,0,0,0,-99,no,0,-99,no,160,PLW_-99
+Panama,PAN,1,0,2008,-99,0,0,0,1,0,-99,no,0,-99,no,157,PAN_-99
+Papau New Guinea,PNG,0,1,-99,-99,0,1,0,0,0,-99,no,0,-99,no,161,PNG_-99
+Paraguay,PRY,1,0,1880,-99,0,0,0,0,0,-99,no,0,-99,no,165,PRY_-99
+Peru,PER,1,0,1924,-99,0,0,0,1,0,-99,no,0,-99,no,158,PER_-99
+Philippines,PHL,1,0,-99,-99,0,0,0,0,0,-99,no,0,-99,no,159,PHL_-99
+Poland,POL,1,0,1932,-99,0,0,0,2,0,-99,no,0,-99,no,162,POL_-99
+Portugal,PRT,1,0,1983,-99,0,0,0,1,1,2010,parliament,1,1999,parliament,164,PRT_2010
+Qatar,QAT,0,1,-99,-99,1,1,1,0,0,-99,no,0,-99,no,166,QAT_-99
+Republic of the Congo,COG,1,0,-99,-99,0,0,0,0,0,-99,no,0,-99,no,37,COG_-99
+Romania,ROM,1,0,1996,-99,0,0,0,1,0,-99,no,0,-99,no,167,ROM_-99
+Russia,RUS,1,0,1993,-99,0,0,0,0,0,-99,no,0,-99,no,168,RUS_-99
+Rwanda,RWA,0,0,-99,-99,0,0,0,0,0,-99,no,0,-99,no,169,RWA_-99
+Saint Helena. Ascension and Trisan de Cunha,SHN,1,0,-99,2001,0,0,0,1,0,-99,no,0,-99,no,171,SHN_-99
+Saint Lucia,LCA,0,0,-99,-99,0,0,0,0,0,-99,no,0,-99,no,138,LCA_-99
+Samoa,WSM,0,1,-99,-99,0,1,0,2,0,-99,no,0,-99,no,209,WSM_-99
+San Marino,SMR,1,0,1865,-99,0,0,0,1,0,-99,no,1,2018,parliament,178,SMR_-99
+Sao Tome and Principe,STP,1,0,2012,-99,0,0,0,0,0,-99,no,0,-99,no,180,STP_-99
+Saudi Arabia,SAU,0,1,-99,-99,1,1,1,0,0,-99,no,0,-99,no,170,SAU_-99
+Senegal,SEN,0,1,-99,1966,0,1,0,0,0,-99,no,0,-99,no,173,SEN_-99
+Serbia,SER,1,0,1858,-99,0,0,0,1,0,-99,no,0,-99,no,140,SER_-99
+Seychelles,SYC,1,0,-99,-99,0,0,0,2,0,-99,no,0,-99,no,185,SYC_-99
+Siera Leone,SLE,0,1,-99,1861,0,1,0,0,0,-99,no,0,-99,no,176,SLE_-99
+Singapore,SGP,0,1,-99,-99,0,1,0,0,0,-99,no,0,-99,no,174,SGP_-99
+Sint Kitts and Nevis,KNA,0,1,-99,-99,0,0,0,0,0,-99,no,0,-99,no,95,KNA_-99
+Sint Vincent and the Grenadines,NNNNN,0,1,-99,-99,0,1,0,0,0,-99,no,0,-99,no,96,NNNNN_-99
+Slovakia,SVK,1,0,1962,-99,0,0,0,2,0,-99,no,0,-99,no,182,SVK_-99
+Slovenia,SVN,1,0,1977,-99,0,0,0,1,0,-99,no,1,2016,parliament,183,SVN_-99
+Solomon Islands,SLB,0,1,-99,-99,0,1,0,0,0,-99,no,0,-99,no,175,SLB_-99
+Somalia,SOM,0,1,-99,-99,1,1,1,0,0,-99,no,0,-99,no,179,SOM_-99
+South Africa,ZAF,1,0,1998,-99,0,0,0,1,1,2006,parliament,1,2006,parliament,211,ZAF_2006
+South Korea,KOR,1,0,-99,-99,0,0,0,2,0,-99,no,0,-99,no,97,KOR_-99
+South Sudan,SSD,0,1,-99,-99,1,1,1,0,0,-99,no,0,-99,no,300,SSD_-99
+Spain,ESP,1,0,1979,-99,0,0,0,1,1,2005,parliament,1,misc,misc,54,ESP_2005
+Sri Lanka,LKA,0,0,-99,-99,0,0,0,0,0,-99,no,0,-99,no,105,LKA_-99
+Sudan,SDN,0,1,-99,1899,1,1,1,0,0,-99,no,0,-99,no,172,SDN_-99
+Suriname,SUR,1,0,1869,-99,0,0,0,1,0,-99,no,0,-99,no,181,SUR_-99
+Sweden,SWE,1,0,1944,-99,0,0,0,1,1,2009,parliament,1,1994,parliament,184,SWE_2009
+Switzerland,CHE,1,0,1942,-99,0,0,0,1,0,-99,no,1,2005,referendum,32,CHE_-99
+Syria,SYR,0,1,-99,-99,0,1,0,0,0,-99,no,0,-99,no,186,SYR_-99
+Taiwan,TWN,1,0,-99,-99,0,0,0,1,1,2017,court,1,misc,misc,198,TWN_2017
+Tajikistan,TJK,1,0,1998,-99,0,0,0,0,0,-99,no,0,-99,no,190,TJK_-99
+Tanzania,TZA,0,1,-99,1864,1,1,1,0,0,-99,no,0,-99,no,199,TZA_-99
+Thailand,THA,1,0,1956,-99,0,0,0,1,0,-99,no,0,-99,no,189,THA_-99
+Togo,TGO,0,1,-99,1884,0,1,0,0,0,-99,no,0,-99,no,188,TGO_-99
+Tonga,TON,0,1,-99,-99,0,1,0,0,0,-99,no,0,-99,no,193,TON_-99
+Trinidad and Tobago,TTO,1,0,2018,-99,0,0,0,0,0,-99,no,0,-99,no,194,TTO_-99
+Tunisia,TUN,0,1,-99,1913,0,1,0,0,0,-99,no,0,-99,no,195,TUN_-99
+Turkey,TUR,1,0,1858,-99,0,0,0,0,0,-99,no,0,-99,no,196,TUR_-99
+Turkmenistan,TKM,0,1,-99,-99,0,1,0,0,0,-99,no,0,-99,no,191,TKM_-99
+Tuvalu,TUV,0,1,-99,-99,0,1,0,0,0,-99,no,0,-99,no,197,TUV_-99
+Uganda,UGA,0,1,-99,1894,1,1,1,0,0,-99,no,0,-99,no,200,UGA_-99
+Ukraine,UKR,1,0,1991,-99,0,0,0,0,0,-99,no,0,-99,no,201,UKR_-99
+United Arab Emirates,ARE,0,1,-99,-99,1,1,1,0,0,-99,no,0,-99,no,7,ARE_-99
+United Kingdom,GBR,1,0,1961,-99,0,0,0,1,1,2013,court,1,2004,court,62,GBR_2013
+United States,USA,1,0,2003,-99,0,0,0,1,1,2015,court,1,misc,misc,203,USA_2015
+Uruguay,URY,1,0,1934,-99,0,0,0,1,0,-99,no,0,-99,no,202,URY_-99
+Uzbekistan,UZB,0,1,-99,-99,0,1,0,0,0,-99,no,0,-99,no,205,UZB_-99
+Vanuatu,VUT,1,0,2007,-99,0,0,0,2,0,-99,no,0,-99,no,208,VUT_-99
+Venezuela,VEN,1,0,1997,-99,0,0,0,2,0,-99,no,0,-99,no,206,VEN_-99
+Vietnam,VNM,1,0,-99,-99,0,0,0,1,0,-99,no,0,-99,no,207,VNM_-99
+Yemen,YEM,0,1,-99,-99,1,1,1,0,0,-99,no,0,-99,no,210,YEM_-99
+Zambia,ZMB,0,1,-99,-99,0,1,0,0,0,-99,no,0,-99,no,213,ZMB_-99
+Zimbabwa,ZWE,0,0,-99,1891,0,0,0,0,0,-99,no,0,-99,no,214,ZWE_-99
